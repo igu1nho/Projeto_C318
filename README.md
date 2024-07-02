@@ -1,9 +1,7 @@
-# AI Movies and Series Recommender
-
-Projeto da Disciplina de Tópicos Especiais II (C318)
+# Projeto da Disciplina de Tópicos Especiais II (C318)
 
 ## Descrição
-É um sistema de recomendação que sugere filmes e séries da Netflix com base no gosto do usuário. Utilizamos datasets do Kaggle para treinar nossos modelos de recomendação e proporcionar uma experiência personalizada.
+O AI Movies and Series Recommender, é um sistema de recomendação que sugere filmes e séries da Netflix com base no gosto do usuário. Utilizamos datasets do Kaggle para treinar nossos modelos de recomendação e proporcionar uma experiência personalizada.
 
 ## Autores
 
