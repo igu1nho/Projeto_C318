@@ -37,7 +37,8 @@ Quais fatores influenciam as recomendações de filmes?
 • Similaridade do gosto dos usuários com os temas abordados na exibição.
 
 ## Execução 💻
-Utilizamos o Jupyter e o Google Colab para executar o código. Utilizar os Datasets e o arquivo requirements.txt disponibilizados, para que o projeto funcione corretamente.
-Lembre-se de atualizar o Projeto_C318.ipynb no 2° tópico, com o seu diretório dos datasets.
+• Utilizamos o Jupyter e o Google Colab para executar o código. Utilizar os Datasets e o arquivo requirements.txt disponibilizados, para que o projeto funcione corretamente.
+
+• Lembre-se de atualizar o Projeto_C318.ipynb no 2° tópico, com o seu diretório dos datasets.
 ![image](https://github.com/igu1nho/Projeto_C318/assets/89806466/0b90f79c-f815-4bbb-a6f2-dfee7faf88ba)
 
